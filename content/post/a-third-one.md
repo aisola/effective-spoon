@@ -8,9 +8,8 @@ featured = false
 image = ""
 menu = ""
 share = true
-slug = "post-title"
+slug = "post-title-2"
 tags = ["tag1","tag2"]
-title = "Post title"
+title = "Post title 2"
 
 +++
-
