@@ -1,3 +1,35 @@
 baseURL = "http://104.131.17.226/"
 languageCode = "en-us"
 title = "Abram Isola"
+
+[Params]
+	avatar = "http://dev-abramisola.isolatest.co/wp-content/uploads/2017/02/AbramIsolaOfficial.jpg"
+	subtitle = "Entrpreneur :: Engineer :: Digital Strategist"
+
+[[Params.socials]]
+	icon = "fa-github"
+	link = "https://github.com/aisola"
+
+[[Params.socials]]
+	icon = "fa-twitter"
+	link = "https://twitter.com/AbramNE"
+
+[[Params.socials]]
+	icon = "fa-linkedin"
+	link = "https://linkedin.com/in/abramcisola"
+
+
+[[Params.projects]]
+	title = "Inkit"
+	image = "http://dev-abramisola.isolatest.co/wp-content/uploads/2017/02/AbramIsolaOfficial.jpg"
+	link = "https://inkit.io"
+
+[[Params.projects]]
+	title = "Finnesota"
+	image = "http://dev-abramisola.isolatest.co/wp-content/uploads/2017/02/AbramIsolaOfficial.jpg"
+	link = "https://finnesota.com"
+
+[[Params.projects]]
+	title = "Wave"
+	image = "http://dev-abramisola.isolatest.co/wp-content/uploads/2017/02/AbramIsolaOfficial.jpg"
+	link = "https://github.com/aisola/wave"
