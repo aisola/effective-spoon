@@ -1,7 +1,9 @@
 +++
 author = "Abram Isola"
+categories = ["Technology"]
 date = "2017-05-01T23:32:50-05:00"
 draft = false
+tags = ["CMS", "Hugo", "WordPress"]
 title = "Why I Switched From WordPress to Hugo"
 
 +++
