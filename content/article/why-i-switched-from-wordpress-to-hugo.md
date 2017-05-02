@@ -1,4 +1,5 @@
 +++
+author = "Abram Isola"
 date = "2017-05-01T23:32:50-05:00"
 draft = false
 title = "Why I Switched From WordPress to Hugo"
